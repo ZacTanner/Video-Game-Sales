@@ -13,4 +13,4 @@ The data set used in this analysis was obtained from [Kaggle](https://www.kaggle
 
 Approach to data analysis: Pandas was used for cleaning and initial EDA. I also created new fields for Console Generation and Console Manufacturer and mapped these to the corresponding platforms within the data frame. The updated data set was exported and further explored using Tableau to generate visualizations.
 
-[The Tableau Dashboard can be viewed here](https://public.tableau.com/app/profile/zach.tanner/viz/DashboardforGlobalVideoGameSales/VideoGameDashboard)
+[The Tableau Dashboard can be viewed here](https://public.tableau.com/app/profile/zach.tanner/viz/GlobalVideoGameSales_17431064585000/VideoGameDashboard)
